@@ -22,10 +22,10 @@ We utilized a comprehensive dataset that spans over 13 years, offering extensive
 
 We would like to acknowledge the valuable contributions of the following team members to this project:
 
-- [Contributor 1](https://github.com/contributor1) (Role)
-- [Contributor 2](https://github.com/contributor2) (Role)
-- [Contributor 3](https://github.com/contributor3) (Role)
-- [Contributor 4](https://github.com/contributor4) (Role)
+- [Isuru](https://github.com/IsuruGunarathne) 
+- [Nadun](https://github.com/codened)
+- [Ginushma](https://github.com/Ginushmal)
+- [Nisal](https://github.com/ndranathunga) 
 
 ## Approach
 
